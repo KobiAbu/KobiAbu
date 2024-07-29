@@ -1,6 +1,6 @@
 ## Kobi Abu
-**`Full-Stack Developer
-`**
+**`Full-Stack Developer`**
+
 I am a Full-Stack Software Developer with 2 years of experience, currently pursuing a master's degree in Machine Learning and Data Science. Every project showcased in this account has been crafted from the ground up, encompassing the entire process from planning and designing to solving real-life problems with code. My work reflects my dedication to building robust, scalable, and innovative solutions.
 
 <!--
