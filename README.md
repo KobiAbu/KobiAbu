@@ -1,14 +1,17 @@
 
-<div align="center">
-  <div style="width: 100%; max-width: 600px; margin: 0 auto; text-align: left;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+software+developer;Open+for+work" alt="Typing SVG" />
-    </a>
-    <h1 style="font-size: 24px; color: black;">Kobi Abu</h1>
-    <h2 style="font-size: 20px; color: black;"><strong>Full-Stack Developer</strong></h2>
-  </div>
-</div>
 
+<h2 align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%66B2B2&size=18&center=true&vCenter=true&height=20&lines=Full-Stack+software+developer;Open+for+work)](https://git.io/typing-svg)
+
+ 
+</h2>
+
+
+
+<h1 align="center">Kobi Abu</h1>
+<h3 align="center">Full-Stack Developer</h3>
 I am a Full-Stack Software Developer with 2 years of experience, currently pursuing a master's degree in Machine Learning and Data Science. Every project showcased in this account has been crafted from the ground up, encompassing the entire process from planning and designing to solving real-life problems with code. My work reflects my dedication to building robust, scalable, and innovative solutions.
 
 <!--
