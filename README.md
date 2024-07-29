@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack software developer;Open for work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+software+developer;Open+for+work)](https://git.io/typing-svg)
 ## Kobi Abu
 **`Full-Stack Developer`**
 
